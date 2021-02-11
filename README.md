@@ -2,11 +2,16 @@ KNN is a model that classifies data points based on the points that are most sim
 
 
 Pros:
+
 Easy to use.
+
 Quick calculation time.
+
 Does not make assumptions about the data.
 
 
 Cons:
+
 Accuracy depends on the quality of the data.
+
 Must find an optimal k value (number of nearest neighbors).
